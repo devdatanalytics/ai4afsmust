@@ -24,6 +24,7 @@ Data storage is on Google drive.
 ## 2. Data Pre-processing
 The code files used for initial data pre-processing include:
 
-* [`download_files.py`](https://github.com/devdatanalytics/ai4afsmust/blob/main/dataCollection/download_files.py): used Google Drive Downloader to download fecal images dataset from URLs captured by ODK.
+* [`download_files.py`](https://github.com/devdatanalytics/ai4afsmust/blob/main/dataCollection/download_imgfiles.py): used Google Drive Downloader to download fecal images dataset from URLs captured by ODK.
+
 
 * [`rename_img.py`](https://github.com/devdatanalytics/ai4afsmust/blob/main/dataCollection/rename_img.py): used to rename files in a given folder in the format `classname.filenumber.extension` e.g. healthy25.jpg and produces a `.csv` file containing a list of new filename and old filename.
