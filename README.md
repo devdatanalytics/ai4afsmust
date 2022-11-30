@@ -1,4 +1,3 @@
-## ai4afsmust
 # Development of Machine Learning Models for Early Detection of Crop Diseases Based on Crop Imagery Data
 
 This code base contains the code used in data collection and to pre-process leaf images that will be taken at small-scale crop farms in southern highlands of Tanzania. The two main crops are Common beans and Irish potatoes. 
